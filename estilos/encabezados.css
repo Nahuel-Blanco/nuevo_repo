@@ -1,0 +1,23 @@
+.menu{
+    background-color: brown;
+    text-align: center;
+    
+}
+header{
+    padding: 50px;
+    text-align: center;
+    background-color: black;
+    color: brown;
+}
+
+.menu > *{
+    background-color:brown;
+    border: 5px solid rgb(0, 0, 0);
+    text-align: center;
+    color: white;
+}
+
+body{
+    background-color: brown;
+
+}
